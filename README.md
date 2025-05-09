@@ -1,4 +1,4 @@
-# Wormhole NTT Connect demo
+# Wormhole NTT Connect PagCrypto
 
 This project sets up a Vite-React TypeScript application and integrates it with the Wormhole Connect SDK.
 
@@ -16,8 +16,8 @@ Ensure you have the following installed on your system:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/wormhole-foundation/demo-ntt-connect.git
-cd demo-ntt-connect
+git clone https://github.com/PagCrypto/wormhole-ntt-connect.git
+cd wormhole-ntt-connect
 ```
 
 ### 2. Download Dependencies
